@@ -210,21 +210,6 @@ pnpm i
 
 发送#chatgpt更新指令。如果有冲突，可以使用#chatgpt强制更新。
 
-## 示例与截图
-
-- 程序员版
-
-![img.png](resources/img/example1.png)
-
-- 傲娇版
-
-![)T@~XY~NWXUM S1)D$7%I3H](https://user-images.githubusercontent.com/21212372/217540723-0b97553a-f4ba-41df-ae0c-0449f73657fc.png)
-![image](https://user-images.githubusercontent.com/21212372/217545618-3793d9f8-7941-476b-81f8-4255ac216cf7.png)
-
-## TODO
-
-* prompt预设与共享
-
 ## 其他
 
 ### 常见问题
@@ -258,35 +243,3 @@ pnpm i
 5. vit API能本地搭建吗？
 
    能。克隆下来安装依赖直接运行即可。
-## 交流群
-
-* QQ 559567232
-
-## 感谢
-
-本项目使用或参考了以下开源项目
-* https://github.com/transitive-bullshit/chatgpt-api
-* https://github.com/waylaidwanderer/node-chatgpt-api
-* https://github.com/acheong08/ChatGPT
-* https://github.com/PawanOsman
-
-图片以及Bing模式支持 @HalcyonAlcedo
-* https://github.com/HalcyonAlcedo/ChatGPT-Plugin-PageCache
-
-语音vits模型来自于
-* https://huggingface.co/spaces/sayashi/vits-uma-genshin-honkai
-
-以及ChatGPT及OpenAI
-* https://chat.openai.com/
-* https://platform.openai.com/
-
-## 贡献者
-
-感谢以下贡献者
-
-<a href="https://github.com/ikechan8370/chatgpt-plugin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ikechan8370/chatgpt-plugin" />
-</a>
-
-
-![Alt](https://repobeats.axiom.co/api/embed/076d597ede41432208435f233d18cb20052fb90a.svg "Repobeats analytics image")
